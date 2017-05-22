@@ -1,0 +1,29 @@
+reverse(path)
+
+path = "./"
+
+	return names
+
+
+			newfic.close()
+			fic.close()
+				print lines[i]
+				newfic.write(lines[i])
+			for i in range(len(lines)-1,-1,-1):
+			print lines,len(lines)
+			newfic =  codecs.open(path+f+'_copie','w','utf8')
+			lines = fic.readlines()	
+			fic = codecs.open(path+f,'r','utf8')
+			names.append(f)
+			print f
+		if '_copie' not in f:
+	for f in listdir:
+	listdir = os.listdir(path)
+	names = []
+def reverse(path):
+
+import codecs
+import os
+
+# -*-coding:Utf-8 -*
+#!/usr/bin/python
